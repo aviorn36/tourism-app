@@ -4,7 +4,9 @@ const Home = () => {
   return (
     <section className="hero" id="home">
       <div className="hero-banner">
-        <h1>Tour 2 Sikkim</h1>
+        <h1>
+          Tour 2 <span>Sikkim</span>
+        </h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
           explicabo debitis est autem dicta.

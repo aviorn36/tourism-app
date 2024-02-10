@@ -193,6 +193,9 @@ Hero
   color: var(--clr-white);
   letter-spacing: var(--spacing);
 }
+.hero-banner h1 span {
+  color: var(--clr-primary-5);
+}
 .hero-btn {
   padding: 0.9rem 1.6rem;
   font-size: 1.25rem;
